@@ -1,7 +1,7 @@
 {
   "name": "@sehv-oss/prettier-config",
   "version": "0.0.0",
-  "description": "Configuração compartilhada do Prettier para projetos JavaScript/TypeScript.",
+  "description": "Prettier shared configuration for JavaScript/TypeScript projects",
   "type": "module",
   "main": ".prettier.config.ts",
   "scripts": {
