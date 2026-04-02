@@ -17,7 +17,7 @@
     "prettier-config",
     "code-style"
   ],
-  "license": "MIT",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/sehv-oss/prettier-config.git"
