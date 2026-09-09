@@ -1,5 +1,11 @@
 # @sehv-oss/prettier-config
 
+## 1.0.2
+
+### Patch Changes
+
+- f544f3f: feat: bump deps version and ci stable version
+
 ## 1.0.1
 
 ### Patch Changes
